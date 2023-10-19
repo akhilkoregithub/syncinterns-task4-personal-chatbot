@@ -1,0 +1,12 @@
+{
+    "greetings": ["Hello!", "Hi there!", "Hey! How can I assist you today?"],
+    "name": ["I'm ChatBot. You can call me ChatBot.", "I don't have a name. Just call me ChatBot."],
+    "commands": {
+        "help": "I can help you with various tasks. Please ask me anything.",
+        "time": "The current time is 1:00 PM.",
+        "weather": "The weather today is sunny with a high of 35°C.",
+        "news": "Here are the latest headlines: [Headline 1], [Headline 2], [Headline 3].",
+        "goodbye": "Goodbye! If you have more questions, feel free to ask."
+    },
+    "fallback": "I'm sorry, I don't understand. Please ask something else."
+}
